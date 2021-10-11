@@ -19,7 +19,7 @@ d3.json(recruit_team, function (data) {
         positions: years.map(column => column.position),
         schools: years.map(column => column.school)
     };
-
+    console.log(years)
     console.log(trace2);
 
 });
