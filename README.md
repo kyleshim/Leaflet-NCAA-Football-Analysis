@@ -24,3 +24,11 @@ Data source: ​​[https://api.collegefootballdata.com/api/docs/?url=/api-docs.
 We will pull data (containing thousands of records) from the college football data API, clean it, and store it in an SQL database for further analysis. Our visualizations will include maps with user interaction with potential for other visualizations.
 
 We plan to use the Reveal Javascript library to potentially create our slide deck ([https://revealjs.com/](https://revealjs.com/)). More JS libraries could be added on as we work through our analysis. We will host our visualizations either through Heroku or Git Pages.
+
+### Screenshots:
+
+#### 2021 Recruits
+![2021_Recruits](2021_Recruits.png)
+
+#### University of Florida Recruits Recruits
+![UF_Recruits](UF_Recruits.png)
